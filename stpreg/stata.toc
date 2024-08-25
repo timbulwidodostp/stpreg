@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p stpreg Event probability regression of Occurrence of events models Use stpreg With STATA 18
