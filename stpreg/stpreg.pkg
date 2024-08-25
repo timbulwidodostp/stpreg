@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'stpreg': Event probability regression of Occurrence of events models Use stpreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rcsgen.ado
+f rcsgen.sthlp
+f rcsgen_example.ado
+f stpreg.ado
+f stpreg.sthlp
+f stpreg_d0.ado
+f stpreg_gaussquad.ado
+f stpreg_postestimation.sthlp
+f stpreg_pred.ado
