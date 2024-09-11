@@ -1,6 +1,8 @@
 # stpreg
 Event probability regression of Occurrence of events models Use stpreg With STATA 18
 
+https://www.youtube.com/watch?v=zUmuxkILJ_M
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
